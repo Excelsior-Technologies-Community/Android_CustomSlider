@@ -66,8 +66,8 @@ maven { url = uri("https://jitpack.io") }
 
 ```gradle
 dependencies {
-	        implementation 'com.github.Excelsior-Technologies-Community:Android_SwipeTransition:1.0.0'
 
+	        implementation 'com.github.Excelsior-Technologies-Community:Android_CustomSlider:1.0.0'
 }
 ```
 ## ⚡ **attrs file**
